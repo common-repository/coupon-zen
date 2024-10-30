@@ -1,0 +1,47 @@
+.couponzen_meta_box_table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    display: table;
+}
+
+.couponzen_meta_box_table th {
+    padding: 18px 8px;
+    display: table-cell;
+    text-align: left;
+    vertical-align: top;
+    width: 20%;
+}
+
+.couponzen_meta_box_table td input {
+    width: 50%;
+}
+
+.coupon_expired {
+    color: red;
+    font-weight: bold;
+}
+
+.couponzen_select_control {
+    width: 175px;
+}
+
+#adminmenu .wp-menu-image img {
+    padding: 4px 0 0 0;
+}
+
+.nav-tab {
+    cursor: pointer;
+}
+
+.couponzen-form-table tbody tr td span {
+    line-height: 2;
+}
+
+input#couponzen_autoCoupon,
+input#htCouponzenDoFollowPostBtn {
+    width: 15px;
+}
+input#htCzenSticky {
+    width: 15px;
+}

@@ -1,0 +1,597 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Coupon Zen\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-13 11:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: couponzen"
+
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: include/class.couponzen.php:54
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: admin/classes/class.manage.post-columns.php:48
+msgid "\"]"
+msgstr ""
+
+#: include/plugin_global_function.php:57
+msgid "&laquo; Previous"
+msgstr ""
+
+#: include/plugin_global_function.php:68
+msgid "..."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:183
+msgid ".example{ color: red; }"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:59
+msgid "15"
+msgstr ""
+
+#: admin/include/custom-meta-fields.php:52
+msgid "50% Off"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:23
+msgid "Add Coupon"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:74
+msgid "Add New Category"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:22
+msgid "Add New Coupon"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:100
+msgid "Add New Event"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:69
+msgid "All Category"
+msgstr ""
+
+#: include/shortcodes.php:48 frontend/templates/archive-couponzen.php:17
+msgid "All Coupon"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:21
+msgid "All Coupons"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:95
+msgid "All Event"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:43
+msgid "Archive Page Style:"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:70
+msgid "Ascending"
+msgstr ""
+
+#: include/couponzen_post_render.php:76
+#: admin/classes/class.admin-settings.php:114
+msgid "Auto Applied"
+msgstr ""
+
+#: admin/include/custom-meta-fields.php:29
+msgid "Auto Coupon:"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:112
+msgid "Auto Coupon: "
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:167
+msgid "Button Background Color:"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:174
+msgid "Button Background Hover Color:"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:153
+msgid "Button Text Color:"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:160
+msgid "Button Text Hover Color:"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:128
+msgid "Button Text: "
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:76
+msgid "Categories"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:177
+msgid "Change the Button Background  Hover Color for the Coupon."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:170
+msgid "Change the Button Background Color for the Coupon."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:156
+msgid "Change the Button Text Color for the Coupon."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:163
+msgid "Change the Button Text Hover Color for the Coupon."
+msgstr ""
+
+#: include/class.couponzen.php:136
+msgid "Copied"
+msgstr ""
+
+#: include/class.couponzen.php:137 include/couponzen_post_render.php:81
+msgid "Copy"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:44
+msgid "coupon"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:18
+msgid "Coupon Archives"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:19
+msgid "Coupon Attributes"
+msgstr ""
+
+#: include/class.couponzen.php:102
+msgid "Coupon Code"
+msgstr ""
+
+#: admin/include/custom-meta-fields.php:39
+msgid "Coupon Code:"
+msgstr ""
+
+#: admin/classes/class.manage.post-columns.php:30
+msgid "Coupon Day Left"
+msgstr ""
+
+#: admin/classes/class.manage.post-columns.php:28
+msgid "Coupon Discount"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:32
+msgid "Coupon Featured Image"
+msgstr ""
+
+#: admin/classes/class.manage.post-columns.php:52
+#: admin/classes/class.manage.post-columns.php:68
+msgid "Coupon Not Set"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:57
+msgid "Coupon Per Pages: "
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:136
+msgid "Coupon Site URL Target:"
+msgstr ""
+
+#: admin/include/custom-meta-fields.php:68
+msgid "Coupon Site URL:"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:104
+msgid "Coupon Text: "
+msgstr ""
+
+#. Name of the plugin
+#: include/class.couponzen.php:55 admin/classes/class.custom-post-type.php:16
+msgid "Coupon Zen"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:181
+msgid "Coupon Zen Custom CSS:"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:28
+msgid "Coupon Zen Settings"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:106
+msgid "Coupon:"
+msgstr ""
+
+#: include/couponzen_post_render.php:69 include/couponzen_post_render.php:83
+msgid "Coupon: "
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:38
+msgid "Coupons list"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:39
+msgid "Coupons list navigation"
+msgstr ""
+
+#: include/class.couponzen.php:26
+msgid "CouponZen Full Width Page"
+msgstr ""
+
+#: admin/include/custom-meta-fields.php:6
+msgid "Couponzen Options"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create Custom Coupons codes and benefit from a variety of user-friendly "
+"features."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:90
+msgid "Date"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:69
+msgid "Descending "
+msgstr ""
+
+#: admin/include/custom-meta-fields.php:49
+msgid "Discount:"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:72
+msgid "Edit Category"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:25
+msgid "Edit Coupon"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:98
+msgid "Edit Event"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:102
+msgid "Events"
+msgstr ""
+
+#: include/couponzen_post_render.php:101
+msgid "Expired"
+msgstr ""
+
+#: admin/classes/class.manage.post-columns.php:61
+#: admin/classes/class.manage.post-columns.php:78
+msgid "Expired "
+msgstr ""
+
+#: admin/include/custom-meta-fields.php:58
+msgid "Expired Date:"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:122
+msgid "Expired on:"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:120
+msgid "Expired Text: "
+msgstr ""
+
+#: admin/classes/class.manage.post-columns.php:29
+msgid "Expiry Date"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:40
+msgid "Filter Coupons list"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:32
+msgid "General"
+msgstr ""
+
+#. Author of the plugin
+msgid "HasThemes"
+msgstr ""
+
+#: admin/include/custom-meta-fields.php:71
+msgid "https://example.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hasthemes.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://hasthemes.com/plugins/"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:84
+msgid "ID"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:36
+msgid "Insert into Coupon"
+msgstr ""
+
+#: admin/classes/class.manage.post-columns.php:55
+#: admin/classes/class.manage.post-columns.php:71
+msgid "Lift Time"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:93
+msgid "Modified Date"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:75
+msgid "New Category Name"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:24
+msgid "New Coupon"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:101
+msgid "New Event Name"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:139
+msgid "New Tab"
+msgstr ""
+
+#: include/plugin_global_function.php:85
+msgid "Next &raquo;"
+msgstr ""
+
+#: include/class.couponzen-filter.php:74 include/class.couponzen-filter.php:141
+#: include/shortcodes.php:74 frontend/templates/archive-couponzen.php:44
+msgid "No Coupon Found"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:30
+msgid "No Coupons found"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:81
+msgid "None "
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:31
+msgid "Not Coupons found in Trash"
+msgstr ""
+
+#: include/shortcodes.php:14 include/shortcodes.php:149
+msgid "Note: "
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:70
+msgid "Parent Category"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:71
+msgid "Parent Category:"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:20
+msgid "Parent Coupon:"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:96
+msgid "Parent Event"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:97
+msgid "Parent Event:"
+msgstr ""
+
+#: include/class.couponzen.php:56
+msgid "PHP"
+msgstr ""
+
+#: admin/include/custom-meta-fields.php:42
+msgid "Please Ender the Coupon Code Here."
+msgstr ""
+
+#: include/shortcodes.php:14
+msgid ""
+"Please insert a single attribute at a time while using a shortcode to filter "
+"the coupons. Example: [couponzen id=\"Post ID\"] OR [couponzen event=\"Event "
+"Name\"]"
+msgstr ""
+
+#: include/shortcodes.php:149
+msgid "Please insert correct couponzen shortcode attribute."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:77
+msgid "Post Order By:"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:66
+msgid "Post Order:"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:17
+msgid "Post Type"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:45
+msgid "Post Type Description"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:14
+msgctxt "Post Type General Name"
+msgid "Coupon Zen"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:15
+msgctxt "Post Type Singular Name"
+msgid "coupon"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:184
+msgid "Put Any Custom CSS as you want."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:96
+msgid "Random Order"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:34
+msgid "Remove Coupon featured image"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:68
+msgid "Search Category"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:29
+msgid "Search Coupon"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:94
+msgid "Search Event"
+msgstr ""
+
+#: include/shortcodes.php:65 frontend/templates/archive-couponzen.php:35
+msgid "Search here"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:142
+msgid ""
+"Select if you want the coupon site to open in a new tab or not. The default "
+"value is “_blank”."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:52
+msgid "Select the Archive Page style. The default is Style 1."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:60
+msgid "Select the number of coupons per page. The default is value 15."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:72
+msgid ""
+"Select whether your coupon to be shown in Ascending or Descending order."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:99
+msgid "Select whether your post order to be shown based on various attributes."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:140
+msgid "Self Page"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:33
+msgid "Set Coupon featured image"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:16
+#: admin/classes/class.admin-settings.php:17
+msgid "Settings"
+msgstr ""
+
+#: admin/classes/class.manage.post-columns.php:27
+msgid "Shortcode"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:33
+msgid "Style"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:46
+msgid "Style 1"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:47
+msgid "Style 2"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:48
+msgid "Style 3"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:49
+msgid "Style 4"
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:247
+msgid "Successfully Settings Saved."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:131
+msgid ""
+"Text to show what appears as “button text”. The default text is “Visit "
+"Website”."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:115
+msgid ""
+"Texts to show what appears as the “Auto Applied”. The default text is “Auto "
+"Applied”."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:123
+msgid ""
+"Texts to show what appears as the “coupon expired text”. The default text is "
+"“Expired on”."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:107
+msgid ""
+"Texts to show what appears as the “coupon text”. The default text is "
+"“Coupon”."
+msgstr ""
+
+#: admin/classes/class.admin-settings.php:87
+msgid "Title"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:73
+msgid "Update Category"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:26
+msgid "Update Coupon"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:99
+msgid "Update Event"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:37
+msgid "Uploaded to this Coupon"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:35
+msgid "Use as Coupon featured image"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:27
+msgid "View Coupon"
+msgstr ""
+
+#: admin/classes/class.custom-post-type.php:28
+msgid "View Coupons"
+msgstr ""
+
+#: include/couponzen_post_render.php:107
+#: admin/classes/class.admin-settings.php:130
+msgid "Visit Website"
+msgstr ""
